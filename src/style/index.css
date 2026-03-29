@@ -27,7 +27,7 @@ video {
     #footer {
         padding-top: 30%;
     }
-    .title {
+    h1 {
         font-size: 2rem;
     }
 }
